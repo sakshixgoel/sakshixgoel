@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sakshixgoel
 - 👀 I’m interested in data, cybersecurity, product and fintech
-- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me sakshi.dgoel15@gmail.com
 
 <!---

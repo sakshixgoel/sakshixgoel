@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @sakshixgoel
-- 👀 I’m interested in data, cybersecurity, product and fintech
-- 📫 How to reach me sakshi.dgoel15@gmail.com
+👋 Hi, I’m Sakshi!
+- Studying Math @ University of Waterloo 
+- Currently working in IT System Support @ Gov of Ontario
+- Technology Coordinator @ WREA
+- Interested in data, cybersecurity, product, fintech & development!
+- Reach out at sakshi.goel@uwaterloo.ca
 
 <!---
 sakshixgoel/sakshixgoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

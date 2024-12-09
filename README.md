@@ -1,7 +1,6 @@
 👋 Hi, I’m Sakshi!
 - Studying Math @ University of Waterloo 
 - Currently working in IT System Support @ Gov of Ontario
-- Technology Coordinator @ WREA
 - Interested in data, cybersecurity, product, fintech & development!
 - Reach out at sakshi.goel@uwaterloo.ca
 

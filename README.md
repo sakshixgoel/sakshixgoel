@@ -1,6 +1,6 @@
 👋 Hi, I’m Sakshi!
 - Studying Math @ University of Waterloo 
-- Currently working in IT System Support @ Gov of Ontario
+- Previously: IT Systems Officer @ Gov of Ontario
 - Interested in data, cybersecurity, product, fintech & development!
 - Reach out at sakshi.goel@uwaterloo.ca
 

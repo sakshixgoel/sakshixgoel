@@ -1,6 +1,6 @@
 👋 Hi, I’m Sakshi!
 - Studying Math @ University of Waterloo 
-- Previously: Intern @ Gov of Ontario
+- Intern @ Gov of Ontario
 - Interested in data, cybersecurity, product, fintech & development!
 - Reach out at sakshi.goel@uwaterloo.ca
 
